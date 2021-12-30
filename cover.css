@@ -21,6 +21,11 @@ a:hover {
   border: 1px solid #fff;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /*
  * Base structure
