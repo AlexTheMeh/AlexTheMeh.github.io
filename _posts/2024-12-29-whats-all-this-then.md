@@ -3,7 +3,6 @@ title: "Whats All This Then?"
 date: 2024-12-29 22:17 +0000
 categories: [Blogging]
 tags: [blog, personal-development, career, github-pages]
-author: Alex Long
 ---
 
 ## Whats All This Then?
@@ -28,3 +27,19 @@ For now Im just going to keep on keeping on learning new languages in what littl
 Its 11pm now and I have to work tomorrow so Ill leave you for now friends, take care.
 
 _“The first draft of anything is shit.” ― Ernest Hemingway_
+
+<script src="https://giscus.app/client.js"
+        data-repo="avsthiago/thiagoalves.ai-comments"
+        data-repo-id="R_kgDdjdisoajdo"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLHt2SM4CclHx"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
