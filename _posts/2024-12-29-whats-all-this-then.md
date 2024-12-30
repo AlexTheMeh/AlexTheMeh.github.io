@@ -27,19 +27,3 @@ For now Im just going to keep on keeping on learning new languages in what littl
 Its 11pm now and I have to work tomorrow so Ill leave you for now friends, take care.
 
 _“The first draft of anything is shit.” ― Ernest Hemingway_
-
-<script src="https://giscus.app/client.js"
-        data-repo="AlexTheMeh/AlexTheMeh.github.io"
-        data-repo-id="R_kgDONjqiCQ"
-        data-category="General"
-        data-category-id="DIC_kwDONjqiCc4ClmTh"
-        data-mapping="pathname"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
