@@ -29,16 +29,16 @@ Its 11pm now and I have to work tomorrow so Ill leave you for now friends, take 
 _“The first draft of anything is shit.” ― Ernest Hemingway_
 
 <script src="https://giscus.app/client.js"
-        data-repo="avsthiago/thiagoalves.ai-comments"
-        data-repo-id="R_kgDdjdisoajdo"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOLHt2SM4CclHx"
+        data-repo="AlexTheMeh/AlexTheMeh.github.io"
+        data-repo-id="R_kgDONjqiCQ"
+        data-category="General"
+        data-category-id="DIC_kwDONjqiCc4ClmTh"
         data-mapping="pathname"
         data-strict="1"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
         data-lang="en"
         crossorigin="anonymous"
         async>
