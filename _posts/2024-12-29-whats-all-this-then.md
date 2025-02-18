@@ -5,8 +5,6 @@ categories: [Blogging]
 tags: [blog, personal-development, career, github-pages]
 ---
 
-## Whats All This Then?
-
 Well, whats all this then? This is me trying to keep myself accountable and documenting my progress as a developer. Who am I? Check the [About](https://alexthemeh.github.io/about/) page for a proper break down but the long and short of it is my names Alex and I want to be a software developer.
 How am I going to get this glittering career? The pretty desks? The fast chairs? Worry not I have a plan. Or at least concepts of a plan.
 
